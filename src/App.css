@@ -2,3 +2,7 @@
   text-align: center;
 }
 
+.header-container {
+  background-color: aliceblue;
+  height: 100px;
+}
